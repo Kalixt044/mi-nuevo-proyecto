@@ -1,0 +1,35 @@
+ table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+h1{
+color: red;
+}
+
+h2{
+color: green;
+}
+
+ul li{
+color:blue;
+}
+ol li {
+color:purple;
+}
+tr th{
+color:red;
+}
+
+tr td{
+color:blue;
+}
